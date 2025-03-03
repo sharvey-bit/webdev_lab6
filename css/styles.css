@@ -62,3 +62,13 @@ h2 strong {
         font-size:2em;
         font-weight:900;
 }
+
+.image-r {
+        float: right;
+        margin: 0 0 10px 10px;
+        border: 2px solid blue;
+        width: 300px;
+        padding: 5px;
+        background-color: white;
+        margin: 10px 0 10px 20px;
+}
