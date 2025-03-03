@@ -12,4 +12,14 @@ body {
 #header {
         position: relative;
         margin-top: 40px;
+        border-radius: 12px 12px 0px 0px;
+}
+
+#header h1 {
+        position: absolute;
+        left: 400px;
+        top:0px;
+        font-size: 40px;
+        font-family: 'Devonshire', cursive;
+        color: #E35335;
 }
