@@ -17,9 +17,10 @@ body {
 
 #header h1 {
         position: absolute;
-        left: 400px;
-        top:0px;
-        font-size: 40px;
+        left: 420px;
+        top:5px;
+        font-size: 3em;
         font-family: 'Devonshire', cursive;
         color: #E35335;
 }
+
