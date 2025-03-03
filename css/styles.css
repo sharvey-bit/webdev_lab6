@@ -44,3 +44,8 @@ body {
         height: 80px;
         clear: both;
 }
+
+#content-wrapper {
+        background-image: url("../images/repeating.png");
+        float: left;
+}
