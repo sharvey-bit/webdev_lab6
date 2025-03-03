@@ -99,3 +99,15 @@ h2 strong {
         position: relative;
         right:50%;
 }
+
+#main-nav ul li a {
+        padding: 10px 25px;
+        display: block;
+        color: white;
+        text-decoration: none;
+}
+
+#main-nav ul li a:hover {
+        background-color: #ccc;
+        color: #333;
+}
